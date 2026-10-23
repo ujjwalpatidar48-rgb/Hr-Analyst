@@ -25,9 +25,11 @@ Use the statistics notebook to document descriptive measures actually calculated
 Explore workforce and attrition patterns. Relevant dashboard dimensions include department, job role, gender, education, employee status, and income, where supported by the dataset.
 
 4. SQL Analysis
-Important: The uploaded Hr Data EDA.sql appears to contain e-commerce database/table names and fields such as Sales, Product, City, Category, and Payment_Method. It does not currently appear to be an HR SQL script. Replace it with HR-specific queries before including it as this project's SQL analysis.
-
-Recommended HR query topics, after confirming actual table and column names:
+Performed SQL-based exploratory data analysis (EDA) using MySQL to analyze HR data.
+Analyzed employee demographics, department-wise distribution, education, and job roles.
+Evaluated average monthly income, job satisfaction, and work-life balance.
+Analyzed employee attrition by department and overtime status.
+Used SQL JOINs, GROUP BY, aggregate functions, and filtering to derive HR insights.
 
 Total and active employees
 Total attrition and attrition rate
