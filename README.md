@@ -4,8 +4,6 @@ This HR Analytics project explores employee workforce metrics and attrition patt
 
 The dashboard provides a consolidated view of employee counts, active employees, average monthly income, attrition, department-level metrics, job-role analysis, gender distribution, and education-level analysis.
 
-Project naming note: Use “TCS HR Analytics” as the repository name only if the dataset/project is genuinely based on TCS data and you have permission to publish it. Do not imply official TCS endorsement if this is a personal portfolio project.
-
 Objectives
 Inspect and clean HR data using Python and Pandas.
 Identify and handle missing values, duplicates, and inconsistent data.
